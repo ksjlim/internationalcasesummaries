@@ -12,32 +12,32 @@
 
 ## DIGITALLY DERIVED EVIDENCE (DDE)
 
-**Type of DDE, where was it obtained and by whom?**
+### Type of DDE, where was it obtained and by whom?
 
-1.  A 'Consolidated and Updated Joint list of Evidence' was filed by the Prosecution and Defence as 'Confidential Annex A' on 7 September 2016, this is not available in a public form.[^2]
+1. A 'Consolidated and Updated Joint list of Evidence' was filed by the Prosecution and Defence as 'Confidential Annex A' on 7 September 2016, this is not available in a public form.[^2]
 
-2.  714 items of evidence including photographs, video and satellite images were filed by the Prosecution and agreed by the Defence. Not all evidence was discussed during the trial due to Al Mahdi pleading guilty and because the evidence was previously agreed.[^3]
+2. 714 items of evidence including photographs, video and satellite images were filed by the Prosecution and agreed by the Defence. Not all evidence was discussed during the trial due to Al Mahdi pleading guilty and because the evidence was previously agreed.[^3]
 
-3.  Videos from various media were filmed at the destroyed sites and were located by the OTP on the internet.[^4] Video and audio material from various media was open source and collected from the internet by the OTP during their investigation.[^5] Video Recordings on the internet by various media companies showing the destruction at the time or after the attack[^6], including:
+3. Videos from various media were filmed at the destroyed sites and were located by the OTP on the internet.[^4] Video and audio material from various media was open source and collected from the internet by the OTP during their investigation.[^5] Video Recordings on the internet by various media companies showing the destruction at the time or after the attack[^6], including:
+   
+   1. **France 24 television network**[^7] (0011-0459) with transcript[^8];
+   2. **An Arabic network report**[^9] (0011-0177), with transcript[^10];
+   3. **France 2 network excerpt** from the program Envoyé special (0009-1749) with transcript;[^11]
+   4. **Arabic news report excerpt** (0015-0495)[^12] with transcript; [^13]
+   5. **M6 channel excerpt** from Enquête Exclusive (0001-7037); [^14]
+   6. **TF1 channel excerpt** (0001-6925); [^15]
+   7. **journeyman.tv excerpt** (0017-0027); [^16]
+   8. **interview with Al Mahdi at mausoleum site** where he justifies the attack, complete with transcript.[^17] From the trial transcripts it is unclear from where this video originates.
+   9. **Radio France International**, along with a transcript.[^18]
+   10. **Geo-localisation report from expert witness P-193**, making it possible to geolocate each video and some images[^19] with regard to precise mausoleums created by the witness using video provided to them by OTP.[^20] **Geo-localisation report** was produced by witness P-193 using the various videos obtained by the OTP.[^21]
+   11. **Expert witness report by witness P-75** was produced using the videos located on the internet and obtained by the OTP.[^22] And this **expert witness report P-75** made it possible to state the dates of the videos and ascribe a time frame of June and July 2012 to them.[^23]
+   12. **Satellite images** showing mausoleums pre- and post-destruction were obtained[^24] **having been** collected by a specialised agency.[^25]
+   13. **Panoramic photographs** were taken from the various sites of destruction by OTP experts.[^26] **360-degree panoramic shots** of various sites were taken by OTP experts.[^27] **360-degree panoramic shots** were obtained by OTP experts at the sites.[^28]
+   14. **Archive photographs** were taken of the various sites in Timbuktu, pre-and post- their destruction, some were obtained from the Malian Ministry of Culture. [^29] **Archive photographs** were taken of the various sites in Timbuktu, pre-and post- their destruction, some were obtained from the Malian Ministry of Culture. [^30] **Archive photographs** were obtained by the OTP and some from the Malian Ministry of Culture.[^31]
+   15. **Sketches and drawings by experts**[^32] of the sites pre-destruction were obtained, including architectural drawing by Italian Ministry of Culture made years earlier.[^33] The origin of some of the sketches and drawings are unclear, save the one obtained from the Italian Ministry of Culture.[^34] **Sketches and drawings** were all obtained by the OTP except the one from the Italian Ministry of Culture.[^35]
+   16. **An interactive platform** was used combining satellite images, 360-degree shots, archival photographs, sketches, drawings, video and audio recordings. [^36] **The interactive platform** drew together the satellite images, 360-degree shots, archival photographs, sketches, drawings, video and audio recordings it was produced from evidence collected by the OTP and provided to Situ Research.[^37] **The interactive platform** was produced by Situ research from evidence provided by the OTP.[^38]
 
-    1. **France 24 television network**[^7] (0011-0459) with transcript[^8];
-    2. **An Arabic network report**[^9] (0011-0177), with transcript[^10];
-    3. **France 2 network excerpt** from the program Envoyé special (0009-1749) with transcript;[^11]
-    4. **Arabic news report excerpt** (0015-0495)[^12] with transcript; [^13]
-    5. **M6 channel excerpt** from Enquête Exclusive (0001-7037); [^14]
-    6. **TF1 channel excerpt** (0001-6925); [^15]
-    7. **journeyman.tv excerpt** (0017-0027); [^16]
-    7. **interview with Al Mahdi at mausoleum site** where he justifies the attack, complete with transcript.[^17] From the trial transcripts it is unclear from where this video originates.
-    7. **Radio France International**, along with a transcript.[^18]
-    7. **Geo-localisation report from expert witness P-193**, making it possible to geolocate each video and some images[^19] with regard to precise mausoleums created by the witness using video provided to them by OTP.[^20] **Geo-localisation report** was produced by witness P-193 using the various videos obtained by the OTP.[^21]
-    7. **Expert witness report by witness P-75** was produced using the videos located on the internet and obtained by the OTP.[^22] And this **expert witness report P-75** made it possible to state the dates of the videos and ascribe a time frame of June and July 2012 to them.[^23]
-    7. **Satellite images** showing mausoleums pre- and post-destruction were obtained[^24] **having been** collected by a specialised agency.[^25]
-    7. **Panoramic photographs** were taken from the various sites of destruction by OTP experts.[^26] **360-degree panoramic shots** of various sites were taken by OTP experts.[^27] **360-degree panoramic shots** were obtained by OTP experts at the sites.[^28]
-    7. **Archive photographs** were taken of the various sites in Timbuktu, pre-and post- their destruction, some were obtained from the Malian Ministry of Culture. [^29] **Archive photographs** were taken of the various sites in Timbuktu, pre-and post- their destruction, some were obtained from the Malian Ministry of Culture. [^30] **Archive photographs** were obtained by the OTP and some from the Malian Ministry of Culture.[^31]
-    7. **Sketches and drawings by experts**[^32] of the sites pre-destruction were obtained, including architectural drawing by Italian Ministry of Culture made years earlier.[^33] The origin of some of the sketches and drawings are unclear, save the one obtained from the Italian Ministry of Culture.[^34] **Sketches and drawings** were all obtained by the OTP except the one from the Italian Ministry of Culture.[^35]
-    7. **An interactive platform** was used combining satellite images, 360-degree shots, archival photographs, sketches, drawings, video and audio recordings. [^36] **The interactive platform** drew together the satellite images, 360-degree shots, archival photographs, sketches, drawings, video and audio recordings it was produced from evidence collected by the OTP and provided to Situ Research.[^37] **The interactive platform** was produced by Situ research from evidence provided by the OTP.[^38
-
-**Evidentiary Considerations**
+### Evidentiary Considerations
 
 37. During the trial as the defence and the OTP had agreed to the evidence, and Al Mahdi entered a guilty plea at the outset, the OTP did not present each of the over 700 pieces of filed evidence to the court.[^39]
 38. At trial the OTP relied on the interactive platform and called three witnesses.[^40] At the trial, the OTP focused on presenting their DDE in the form of the interactive platform and interview of Al-Mahdi's record of interview. The evidentiary considerations discussed were primarily surrounding corroboration (of the guilty plea) and authentication.
@@ -46,31 +46,31 @@
 41. The above paragraph provides that an investigation begins with open-source evidence and subsequently moves to individual and government sources who can provide further information including using expert witnesses to authenticate information gathered.
 42. The witness went on to state, "We have an expert report on metadata of images and video material. This has played an important role for us as far as possible to determine the exact dates of, on the one hand, the so-called occupation of the city, but also the exact events that are the subject of this case"[^43]
 43. The witness was also asked by the prosecution about whether Mr Al Mahdi had been played several videos of the destruction of the sites during his record of interview and whether he was able to identify himself as participating in the videos. The witness confirmed that Mr Al Mahdi was able to identify himself and did so a number of times.[^44]
-52. The above quotes in paragraph 18 confirm the geo-localisation report (witness P-193) and the expert report on the videos (P-75). They were used to confirm the location of the attacks on the sites and at what date they occurred. This corroborated the open-source material and was used to confirm its authenticity.
+44. The above quotes in paragraph 18 confirm the geo-localisation report (witness P-193) and the expert report on the videos (P-75). They were used to confirm the location of the attacks on the sites and at what date they occurred. This corroborated the open-source material and was used to confirm its authenticity.
 
 ## COURT ANALYSIS & LEGAL ARGUMENTS
 
-**What arguments/findings were the DDE used to support?**
+### What arguments/findings were the DDE used to support?
 
 53. Article 65 of the Rome Statute regarding proceedings on an admission of guilt requires that the court determine, *inter alia* that an accused's "admission of guilt is supported by the facts of the case including from any materials presented by the Prosecutor which supplements the charges and which the accused accepts".[^45]
 
 54. The Trial Chamber stated, "in order to assess whether 'the admission of guilt is supported by the facts of the case', the Chamber heard three witnesses and considered the hundreds of documentary evidence items presented by the Prosecution and accepted by the Accused. For each of the established facts, the Chamber has relied upon: (i) the admissions of the Accused; (ii) the supplementary material presented by the Prosecution and accepted by the Accused and (iii) the testimony of the witnesses who appeared before this Chamber."[^46]
 
-56. The evidence, including the DDE before the Trial Chamber, is thus used to determine the 'established facts of the case' as required under Article 65(1) of the Rome Statute.
+55. The evidence, including the DDE before the Trial Chamber, is thus used to determine the 'established facts of the case' as required under Article 65(1) of the Rome Statute.
 
-58. The Court referred to Rule 63(4) of the Rules of Procedure and Evidence of the ICC: "a Chamber shall not impose a legal requirement that corroboration is required in order to prove any crime within the jurisdiction of the Court".[^47]
+56. The Court referred to Rule 63(4) of the Rules of Procedure and Evidence of the ICC: "a Chamber shall not impose a legal requirement that corroboration is required in order to prove any crime within the jurisdiction of the Court".[^47]
 
-59. The Trial Chamber further stated: "although there is no corroboration requirement when assessing evidence, the Chamber paid particular attention to whether evidence could establish the facts independently of the Accused's admissions."[^48]
+57. The Trial Chamber further stated: "although there is no corroboration requirement when assessing evidence, the Chamber paid particular attention to whether evidence could establish the facts independently of the Accused's admissions."[^48]
 
-60. The Article 65(2) of the Rome Statute states, "once satisfied the admission of guilt is supported by the facts of the case, the Trial Chamber should consider the admission of guilt, together with any additional evidence presented, as establishing all the essential facts that are required to prove the crime to which the admission of guilt relates, and may convict the accused of that crime."[^49]
+58. The Article 65(2) of the Rome Statute states, "once satisfied the admission of guilt is supported by the facts of the case, the Trial Chamber should consider the admission of guilt, together with any additional evidence presented, as establishing all the essential facts that are required to prove the crime to which the admission of guilt relates, and may convict the accused of that crime."[^49]
 
-61. The Chamber also found "beyond reasonable doubt that the admission of guilt, together with the additional evidence presented, satisfies the essential facts to prove the crime charged"[^50]
+59. The Chamber also found "beyond reasonable doubt that the admission of guilt, together with the additional evidence presented, satisfies the essential facts to prove the crime charged"[^50]
 
-64. The Chamber went on to emphasise "it considers the Agreement and Mr Al Mahdi's admissions to be both credible and reliable in full. Mr Al Mahdi went into extensive detail as to the events in question, often volunteering specific information not strictly necessary in order to prove the charge. The Chamber has been able to independently corroborate almost all of Mr Al Mahdi's account with the evidence before the Chamber, strongly indicating that the entire account is true."[^51]
+60. The Chamber went on to emphasise "it considers the Agreement and Mr Al Mahdi's admissions to be both credible and reliable in full. Mr Al Mahdi went into extensive detail as to the events in question, often volunteering specific information not strictly necessary in order to prove the charge. The Chamber has been able to independently corroborate almost all of Mr Al Mahdi's account with the evidence before the Chamber, strongly indicating that the entire account is true."[^51]
 
-65. The Court thus used the DDE to corroborate Mr Al Mahdi's admission of guilt and to assist in determining the established facts of the case.
+61. The Court thus used the DDE to corroborate Mr Al Mahdi's admission of guilt and to assist in determining the established facts of the case.
 
-**The reasoning of the court with respect to** **DDE**
+### The reasoning of the court with respect to **DDE**
 
 66. On 24 May 2016 at a Status Conference, the Pre-trial Chamber referred to Article 65 of the Rome Statute and asked the Prosecution and Defence whether the previously filed list of evidence could be accepted as having been presented by the Prosecutor and accepted by the Defence. Both parties agreed that it could.[^52]
 
@@ -82,16 +82,15 @@
 
 70. The Court did not consider the evidence beyond the above considerations as its admissibility was unchallenged.[^55][^56]
 
-**Was the DDE admitted** **and/or** **relied upon?**
+### Was the DDE admitted **and/or** **relied upon?**
 
 71. The Court appears to admit all 714 items of evidence that were agreed between the Prosecution and Defence. The Court says it has 714 items before it which it will consider in its determinations.[^57] However, it is unclear what evidence was specifically relied upon by the Court in coming to its determinations.
 
-74. The Chamber used the DDE to come to a determination under Article 65(1)(c) of the Rome Statute, regarding whether "the admission of guilt is supported by the facts of the case", it used the three witnesses called and considered "hundreds of documentary evidence items presented by the Prosecution and accepted by the Accused".[^58]
+72. The Chamber used the DDE to come to a determination under Article 65(1)(c) of the Rome Statute, regarding whether "the admission of guilt is supported by the facts of the case", it used the three witnesses called and considered "hundreds of documentary evidence items presented by the Prosecution and accepted by the Accused".[^58]
 
-75. The Chamber stated it used the evidence before it (which would include the DDE), to determine the established facts of the case and to independently corroborate Al Mahdi's evidence.[^59]
+73. The Chamber stated it used the evidence before it (which would include the DDE), to determine the established facts of the case and to independently corroborate Al Mahdi's evidence.[^59]
 
-
-**Legal** **Submissions on** **DDE**
+### Legal **Submissions on** **DDE**
 
 78. Prior to Trial, the Prosecution filed "*Version publique expurgée du Document présentant les conclusions factuelles et juridiques du Bureau du Procureur au soutien du Chef d'accusation"*[^60]. This document is subject to redaction and only available in French but outlines the nature and types of evidence collected that support the legal and factual allegations alleged and charged. The document alleges Al Mahdi was present at certain sites and corroborates this with:
     1. the geo-localisation report by witness P-0193;
@@ -99,15 +98,13 @@
     3. the expert report of P-0104475; and
     4. reports of P-0055, P-0057 476 and P-0102477 which contain the report of expert witness IT P-75. P-75's expert report used aerial imagery and knowledge of the sites to provide the precise indication of the dates of the attack and destruction in June and July 2012. It also assisted in refining the dates mentioned by witnesses including the date ranges provided by expert P-0064 on the basis of the satellite images.[^61]
 
-
 79. At trial the Prosecutor stated "in view of the guilty plea entered, the public must understand, therefore, today that the Prosecution does not intend to deal with each of the 700 pieces of evidence that have been filed before the Court, we will deal only with specific aspects; namely, starting with an interactive platform, the Prosecution will use satellite images, photographs, videos and other material gleaned from the internet which are included on the list of our evidence material to show the situation of the mausoleums before, during and after the destruction, including the participation of the accused. These elements are authentic and have been accepted by the Defence and which are solid proof corroborating the plea of guilt entered by the accused."[^62]
 
 80. Outside of corroborating the guilty plea, the Prosecution did not seek to discuss evidentiary considerations relating to the DDE.
 
+## RULES OF EVIDENCE
 
-##  RULES OF EVIDENCE
-
-**Relevant Rules of Evidence**
+### Relevant Rules of Evidence
 
 84. Article 65 of the Rome Statute 'Proceedings on an admission of guilt', specifically 65(1)(c)(ii), once an accused makes an admission of guilt, the Court must determine whether that admission is supported by the facts of the case including by evidence (including DDE) agreed between the Prosecution and Defence.
 
@@ -115,7 +112,7 @@
 
 86. Rule 23*bis* of the Regulations of the Court allows a party or the Registrar to mark evidence as "*ex parte*", "under seal" or "confidential" provided the legal or factual basis is also stated for the classification. Unless otherwise ordered by the Chamber this classification remains until the basis no longer exists and whoever instigated the classification seeks to have it reclassified. Any replies to "*ex parte*, confidential or under seal" documents should also have the same classification as the original document.
 
-**Application of Rules of Evidence**
+### Application of Rules of Evidence
 
 87. Article 65 was applied: DDE was used to determine the established facts of the case and whether the admission of guilt was supported by those established facts.[^63]
 
@@ -123,14 +120,13 @@
 
 89. Rule 23*bis* the Court's Regulations was applied in respect of the confidential list of evidence and prevented it from being disclosed to the public. This was in order not to compromise the safety of witnesses and continuing investigative operations of the OTP.[^65]
 
-##  EXTRAPOLATIONS
+## EXTRAPOLATIONS
 
 90. This is because the Trial Chamber rather than Pre-trial Judge must determine if the admission is supported by the facts of the case at the trial; any DDE before the Trial Chamber may assist in determining the facts of the case.[^66]
 
 91. As evidence is agreed and already admitted before the Trial Chamber, it is not required that all items of evidence are presented orally at court. The OTP may present only those important items in order to give the Court an overall picture of the events. [^67]
 
 92. Where the Court is satisfied that an admission of guilt is voluntarily made by the accused; after consultation with the Defence counsel; understanding the nature and consequence of the admission; and supported by the facts of the case put forward by the Prosecution, under Article 65(2) of the Rome Statute; the Court need only consider the relevance, probative value and potential prejudice of evidence, including photographs presented on the digital platform, along with any live testimony heard, when deliberating on whether to convict an accused.[^68]
-
 
 ## CITATIONS
 
