@@ -37,7 +37,10 @@ nav: # Defines website structure: https://www.mkdocs.org/user-guide/writing-your
     - 'guidelines/f-audio-recordings.md'
   - Resources:
     - 'resources/downloads.md'
-    - 'resources/al-mahdi.md'
+    - Case Law:
+      - ICC:
+        - 'resources/al-mahdi.md'
+        - 'resources/al-hassan.md'
 
 markdown_extensions: # This enables options Markdown features.
   - footnotes
